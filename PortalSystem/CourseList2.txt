@@ -1,0 +1,136 @@
+CSE115	C Programming	3	1
+CSE115	C Programming	3	2
+CSE115	C Programming	3	3
+CSE115	C Programming	3	4
+CSE115	C Programming	3	5
+CSE115	C Programming	3	6
+CSE115	C Programming	3	7
+CSE215	JAVA	3	1
+CSE215	JAVA	3	2
+CSE215	JAVA	3	3
+CSE215	JAVA	3	4
+CSE215	JAVA	3	5
+CSE215	JAVA	3	6
+CSE215	JAVA	3	7
+CSE215	JAVA	3	8
+CSE215	JAVA	3	9
+CSE215	JAVA	3	10
+CSE215	JAVA	3	11
+CSE225	Data Structure	3	1
+CSE225	Data Structure	3	2
+CSE225	Data Structure	3	3
+CSE225	Data Structure	3	4
+CSE225	Data Structure	3	5
+CSE225	Data Structure	3	6
+CSE231	DLD	3	1
+CSE231	DLD	3	2
+CSE231	DLD	3	3
+CSE231	DLD	3	4
+CSE231	DLD	3	5
+CSE231	DLD	3	6
+CSE231	DLD	3	7
+CSE231	DLD	3	8
+CSE231	DLD	3	9
+CSE311	DBMS	3	1
+CSE311	DBMS	3	2
+CSE311	DBMS	3	3
+CSE311	DBMS	3	4
+CSE311	DBMS	3	5
+CSE332	Computer Architecture	3	1
+CSE332	Computer Architecture	3	2
+CSE332	Computer Architecture	3	3
+CSE332	Computer Architecture	3	4
+CSE332	Computer Architecture	3	5
+CSE332	Computer Architecture	3	6
+CSE332	Computer Architecture	3	7
+CSE331	Microprocessor	3	1
+CSE331	Microprocessor	3	2
+CSE331	Microprocessor	3	3
+CSE331	Microprocessor	3	4
+CSE331	Microprocessor	3	5
+CSE331	Microprocessor	3	6
+CSE440	AI	3	1
+CSE440	AI	3	2
+CSE445	ML	3	1
+CSE445	ML	3	2
+CSE445	ML	3	3
+CSE465	Neural Network	3	1
+CSE465	Neural Network	3	2
+CSE465	Neural Network	3	3
+MAT116	Pre-Calculas	3	1
+MAT116	Pre-Calculas	3	2
+MAT116	Pre-Calculas	3	3
+MAT116	Pre-Calculas	3	4
+MAT116	Pre-Calculas	3	5
+MAT116	Pre-Calculas	3	6
+MAT116	Pre-Calculas	3	7
+MAT116	Pre-Calculas	3	8
+MAT116	Pre-Calculas	3	9
+MAT116	Pre-Calculas	3	10
+MAT116	Pre-Calculas	3	11
+MAT116	Pre-Calculas	3	12
+MAT116	Pre-Calculas	3	13
+MAT116	Pre-Calculas	3	14
+MAT116	Pre-Calculas	3	15
+MAT116	Pre-Calculas	3	16
+MAT116	Pre-Calculas	3	17
+MAT120	Calculas-I	3	1
+MAT120	Calculas-I	3	2
+MAT120	Calculas-I	3	3
+MAT120	Calculas-I	3	4
+MAT120	Calculas-I	3	5
+MAT120	Calculas-I	3	6
+MAT120	Calculas-I	3	7
+MAT120	Calculas-I	3	8
+MAT120	Calculas-I	3	9
+MAT120	Calculas-I	3	10
+MAT120	Calculas-I	3	11
+MAT120	Calculas-I	3	12
+MAT130	Calculas-II	3	1
+MAT130	Calculas-II	3	2
+MAT130	Calculas-II	3	3
+MAT130	Calculas-II	3	4
+MAT130	Calculas-II	3	5
+MAT130	Calculas-II	3	6
+MAT130	Calculas-II	3	7
+MAT130	Calculas-II	3	8
+MAT130	Calculas-II	3	9
+MAT130	Calculas-II	3	10
+MAT130	Calculas-II	3	11
+MAT250	Calculas-III	3	1
+MAT250	Calculas-III	3	2
+MAT250	Calculas-III	3	3
+MAT250	Calculas-III	3	4
+MAT250	Calculas-III	3	5
+MAT250	Calculas-III	3	6
+MAT250	Calculas-III	3	7
+MAT250	Calculas-III	3	8
+MAT250	Calculas-III	3	9
+MAT250	Calculas-III	3	10
+MAT250	Calculas-III	3	11
+MAT250	Calculas-III	3	12
+MAT250	Calculas-III	3	13
+MAT250	Calculas-III	3	14
+MAT350	Equation	3	1
+MAT350	Equation	3	2
+MAT350	Equation	3	3
+MAT350	Equation	3	4
+MAT350	Equation	3	5
+MAT350	Equation	3	6
+MAT350	Equation	3	7
+MAT350	Equation	3	8
+MAT361	Statistics	3	1
+MAT361	Statistics	3	2
+MAT361	Statistics	3	3
+MAT361	Statistics	3	4
+MAT361	Statistics	3	5
+MAT361	Statistics	3	6
+MAT125	Matrix	3	1
+MAT125	Matrix	3	2
+MAT125	Matrix	3	3
+MAT125	Matrix	3	4
+MAT125	Matrix	3	5
+MAT125	Matrix	3	6
+MAT125	Matrix	3	7
+MAT125	Matrix	3	8
+MAT125	Matrix	3	9

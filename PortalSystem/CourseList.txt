@@ -1,0 +1,17 @@
+CSE115	C programming	4	12
+CSE215	Java	4	9
+CSE225	Data Structure	3	7
+CSE231	DLD	3	6
+CSE311	DBMS	3	5
+CSE373	Algorithm	3	5
+CSE331	Microprocessor	3	6
+CSE332	Compter Architecure	3	5
+CSE440	AI	3	2
+CSE445	ML	3	3
+CSE465	Neural Network	3	3
+EEE154	AutoCaD	1	11
+MAT116	Pre-Calculas	3	19
+MAT120	Calculas-I	3	10
+MAT130	Calculas-II	3	11
+MAT350	Equation	3	4
+MAT361	Statistics	3	6
